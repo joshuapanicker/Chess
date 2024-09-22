@@ -3,7 +3,6 @@ This is my first attempt at building a real complete game application which invo
 
 Although I am still working on the game, the basic framework required for playing a chess game, such as the GUI, ability to run a game with multiple players (human/computer) is already completed. Initially planning to use the simple strategy (with computer as a player) of using weighted random moves and later add depth search and pruning (algorithms such as MINMAX). I also added PGN (Portable Game Notation) support in the game so that it can read/save games into PGN files. A saved game can be restored or replayed play by play on the GUI. I plan to add AI learning support to the game and will use the PGN reader to train it with some of the well-known games played by Chess Legends. 
 
-
-![Screenshot 2024-09-22 130836](https://github.com/user-attachments/assets/65143985-09e8-4915-9bb8-a56bc4c4e63d)
-![Screenshot 2024-09-22 130805](https://github.com/user-attachments/assets/f3049d82-5dcf-49a3-bb07-4f1228c24265)
-![Screenshot 2024-09-22 130904](https://github.com/user-attachments/assets/ba7244c7-9f17-4175-bf50-077fbac030dd)
+<img src="https://github.com/user-attachments/assets/f3049d82-5dcf-49a3-bb07-4f1228c24265" width="500" height="400">
+<img src="https://github.com/user-attachments/assets/ba7244c7-9f17-4175-bf50-077fbac030dd" width="500" height="400">
+<img src="https://github.com/user-attachments/assets/65143985-09e8-4915-9bb8-a56bc4c4e63d" width="500" height="400">
